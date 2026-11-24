@@ -2,7 +2,7 @@
 package mainact3;
 
 class CampusWalletTransfer {
-   private String owner;
+    private String owner;
     private int balance;
 
     public CampusWalletTransfer(String owner, int balance) {
